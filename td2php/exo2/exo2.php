@@ -1,6 +1,6 @@
 <?php
 function Mafonction($colon1,$colon2,$colon3)
-{
+{ ?>
     <table style="border: 2px solid blue;">
   <tr>
     <th><?=$colon1?></th>
@@ -21,8 +21,8 @@ function Mafonction($colon1,$colon2,$colon3)
 </table>
 <?php
     return 1;
-}
-?>
+} ?>
+
 
 
 <!DOCTYPE html>
