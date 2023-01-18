@@ -42,15 +42,10 @@ function Mafonction()
      Mafonction("fruit","legume","autre");
      $resultat = Mafonction();
 
-     $tab = array(array(1,2,5,6),array(1,2,5,6),array(1,2,5,6),array(1,2,5,6));
+     
 
      //foreach ( tableau as la vlaeur)
-     foreach ($tab as  $soustable) {
-      foreach ($soustable as  $value) {
-        echo $value;
-       }
-     }
-     $code = file_get_contents($_SERVER['SCRIPT_FILENAME']);
+  
 
     ?>
 </body>
