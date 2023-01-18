@@ -1,5 +1,5 @@
 <?php
-function Mafonction($colon1,$colon2,$colon3)
+function Mafonction()
 { ?>
     <table style="border: 2px solid blue;">
   
