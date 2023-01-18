@@ -1,0 +1,10 @@
+p.pair {
+    color: white;
+    background-color: red;
+}
+
+p.impair 
+{
+    color: white;
+    background-color: blue;
+}
