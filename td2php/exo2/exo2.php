@@ -55,7 +55,7 @@ function Mafonction($colon1,$colon2,$colon3)
        }
      }
      $code = file_get_contents($_SERVER['SCRIPT_FILENAME']);
-highlight_string($code);
+
     ?>
 </body>
 
