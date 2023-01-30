@@ -16,7 +16,7 @@
             ;
         } else {
             echo 'Mot de passe incorrect..';
-            echo '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h7><a href="https://www.youtube.com/watch?v=oavMtUWDBTM">Indice Mot de passe  ?</a></h7>';
+            echo '<h7><a href="https://www.youtube.com/watch?v=oavMtUWDBTM">Indice Mot de passe  ?</a></h7>';
         }
     }
     echo '<form method="post">Mot de passe : <input type="password" name="password" /><input type="submit" value="Se connecter" /></form>';
