@@ -49,7 +49,17 @@
         <div class="wrapper wrapper--w680">
             <div class="card card-4">
                 <div class="card-body">
-                    <h2 class="title" style="font-size:20px; text-align:center">Bienvenue sur le créateur de combat de vos rêves</h2>
+                    <h2 class="title" style="font-size:20px; text-align:center">Bienvenue sur le créateur de combats de vos rêves</h2>
+                    <h3 class="title" style="font-size:20px; text-align:center">Règles</h3>
+                        
+                        <p>- Vous devrez rentrer des noms de combattants</p>
+                    
+                        <p>- pour les combattant il faudrat spécifier sa taille, son poids, sa nationalité, date de naissance, genre, nom et prénom</p>
+                    
+                        <p>- la taille max est de 2.5m et un poid max de 150kg</p>
+                    
+                        <p>- par la suite vous devrez enregistrer un combat avec les combattant de votre choix le lieux du combat et le nom du gagnant</p>
+                     
                     <!-- Début du formulaire -->
                     <form method="POST">
                         <div class="p-t-15">
