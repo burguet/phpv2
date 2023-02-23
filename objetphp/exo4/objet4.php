@@ -1,5 +1,5 @@
 <?php
-class Personnage {
+class Personnage { //création fonction
     private $vie = 100;
     private $pseudo;
     

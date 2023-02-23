@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php
-    $personnage1 = new Personnage("Julien");
+    $personnage1 = new Personnage("Julien"); //appelle fonction
     $personnage2 = new Personnage("Marie");
     
     echo "<p>Avant l'attaque :</p>";
