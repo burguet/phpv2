@@ -15,8 +15,9 @@
       
         public function __construct() 
         {
-            echo "bonjour";
             $this->Vie = 100;
+            echo "<p>".$this->Vie."</p>";
+            
         }
       }
       
