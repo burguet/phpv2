@@ -17,6 +17,7 @@ class utilisateur
     
     public function seconnecter()
     {
+        echo "je suis un USER"
         ?>
         <table border =1px id=tableau>
             <tr>
