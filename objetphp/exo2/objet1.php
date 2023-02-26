@@ -10,8 +10,8 @@
     <?php
     class Personnage 
     {
-        public $Pseudo;
-        public $Vie;
+        private $Pseudo;
+        private $Vie;
       
         public function __construct() 
         {
